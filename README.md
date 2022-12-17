@@ -1,4 +1,3 @@
 **``👋 I’m Navid``**
-- 👨‍💻 Python Developer
-- 🌱 Site Designer
+- 👨‍💻 Python learner
 - 💞️ Love To Coding
